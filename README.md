@@ -1,4 +1,4 @@
-## 俺 知识点
+## Something you should Know
 
 ### 组学分析
 [Fast_qc序列质控报告解读](https://www.jianshu.com/p/a1eb03d63083)
