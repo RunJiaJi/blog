@@ -11,3 +11,5 @@
 
 [Markdown](https://markdown.com.cn/)
 
+### 数据库
+[宏基因组组装数据库](https://genome.jgi.doe.gov/GEMs)   [参考文献](https://escholarship.org/content/qt42k112z2/qt42k112z2.pdf)
