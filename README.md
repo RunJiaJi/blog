@@ -5,6 +5,7 @@
 
 ### Linux系统
 [Bash讲解](https://wangdoc.com/bash/intro.html)
+[文件目录及颜色区分](https://blog.csdn.net/superhoy/article/details/52611452)
 
 ### 编辑器
 [Vim](https://www.vpser.net/manage/vi.html)
