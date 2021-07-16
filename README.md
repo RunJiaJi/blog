@@ -27,3 +27,8 @@
 [Bioinformatics](https://academic.oup.com/bioinformatics/)
 
 [bioRxiv](https://www.biorxiv.org/)
+
+#### 捏吗的碎碎念
+- ***Python***
+  - getattr返回某个对象的某个属性
+  - raise用来写报错信息
