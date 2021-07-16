@@ -28,6 +28,9 @@
 
 [bioRxiv](https://www.biorxiv.org/)
 
+### 其他语言
+- [***Perl***](https://www.perl.org/)
+
 #### 捏吗的碎碎念
 - ***Python***
   - getattr返回某个对象的某个属性
