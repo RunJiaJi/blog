@@ -24,6 +24,6 @@
 [cheat_sheet](https://simplecheatsheet.com/)
 
 ### 学术期刊
-[Bioinformatics] (https://academic.oup.com/bioinformatics/)
+[Bioinformatics](https://academic.oup.com/bioinformatics/)
 
 [bioRxiv](https://www.biorxiv.org/)
