@@ -5,6 +5,7 @@
 
 ### Linux系统
 [Bash讲解](https://wangdoc.com/bash/intro.html)
+
 [文件目录及颜色区分](https://blog.csdn.net/superhoy/article/details/52611452)
 
 ### 编辑器
@@ -14,3 +15,15 @@
 
 ### 数据库
 [宏基因组组装数据库](https://genome.jgi.doe.gov/GEMs)   [参考文献](https://escholarship.org/content/qt42k112z2/qt42k112z2.pdf)
+
+### 网站教程
+[W3Cschool](https://www.w3schools.com/)
+
+[菜鸟教程](https://www.runoob.com/)
+
+[cheat_sheet](https://simplecheatsheet.com/)
+
+### 学术期刊
+[Bioinformatics] (https://academic.oup.com/bioinformatics/)
+
+[bioRxiv](https://www.biorxiv.org/)
