@@ -1,6 +1,6 @@
 ## Something you should Know
 
-### 🐱🐱🐱[home](runjiaji.github.io/blog)
+### 🐱🐱🐱[home](runjiaji.github.io/blog/)
 
 ### 组学分析
 [Fast_qc序列质控报告解读](https://www.jianshu.com/p/a1eb03d63083)
