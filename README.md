@@ -1,5 +1,7 @@
 ## Something you should Know
 
+### 🐱🐱🐱[home](runjiaji.github.io/blog)
+
 ### 组学分析
 [Fast_qc序列质控报告解读](https://www.jianshu.com/p/a1eb03d63083)
 
@@ -29,7 +31,7 @@
 [bioRxiv](https://www.biorxiv.org/)
 
 ### 分子生物钟工具
-- [PhyloBayes](https://hpc.nih.gov/apps/PhyloBayes.html#doc) [github](https://github.com/bayesiancook/phylobayes/)
+- [PhyloBayes](https://hpc.nih.gov/apps/PhyloBayes.html#doc)   [github](https://github.com/bayesiancook/phylobayes/)
 
 ### 其他语言
 - [***Perl***](https://www.perl.org/)
