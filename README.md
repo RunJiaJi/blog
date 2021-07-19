@@ -33,6 +33,9 @@
 ### 分子生物钟工具
 - [PhyloBayes](https://hpc.nih.gov/apps/PhyloBayes.html#doc)   [github](https://github.com/bayesiancook/phylobayes/)
 
+### Package Release
+- [Pypi package](https://packaging.python.org/tutorials/packaging-projects/)
+
 ### 其他语言
 - [***Perl***](https://www.perl.org/)
 
