@@ -43,3 +43,6 @@
 - ***Python***
   - getattr返回某个对象的某个属性
   - raise用来写报错信息
+
+- ***Prokka***
+  - tbl2asn报错的话就手动下载然后安装 [link](https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/)
