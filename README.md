@@ -49,5 +49,5 @@
 
 - ***Molecular Clock***
   - Bayes
-    ![Bayes Formula1](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula1.jpg)
-    ![Bayes_Formula2](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula2.jpg)
+![Bayes Formula1](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula1.jpg)
+![Bayes_Formula2](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula2.jpg)
