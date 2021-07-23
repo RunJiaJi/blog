@@ -46,3 +46,8 @@
 
 - ***Prokka***
   - tbl2asn报错的话就手动下载然后安装 [link](https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/)
+
+- ***Molecular Clock***
+  - Bayes
+    ![Bayes Formula1](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula1.jpg)
+    ![Bayes_Formula2](https://raw.githubusercontent.com/RunJiaJi/blog/main/Beyes_Formula2.jpg)
