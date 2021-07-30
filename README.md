@@ -54,3 +54,4 @@
 
 - ***Bioinformatics intro***
   - [Bioinfromatics_2021intro](https://github.com/RunJiaJi/blog/blob/main/Bioinformatics_introduction_2021.pdf)
+  - [Typical bioinformatics pipeline](src/Typical_bioinformatics_pipeline.jpeg)
