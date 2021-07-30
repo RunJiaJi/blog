@@ -57,3 +57,5 @@
   - Typical bioinformatics pipeline
 
  ![Typical bioinformatics pipeline](src/Typical_bioinformatics_pipeline.jpeg)
+ 
+ - [abc](./Genome_analysis.html)
