@@ -54,4 +54,5 @@
 
 - ***Bioinformatics intro***
   - [Bioinfromatics_2021intro](src/Bioinformatics_introduction_2021.pdf)
-  - ![Typical bioinformatics pipeline](src/Typical_bioinformatics_pipeline.jpeg)
+  - Typical bioinformatics pipeline
+ ![Typical bioinformatics pipeline](src/Typical_bioinformatics_pipeline.jpeg)
