@@ -59,3 +59,7 @@
  ![Typical bioinformatics pipeline](src/Typical_bioinformatics_pipeline.jpeg)
  
  - [abc](./Genome_analysis.html)
+
+### Magnetotactic Bacteria
+- [Magnetotactic Bacteria Metagenome Project](https://www.ncbi.nlm.nih.gov/bioproject/400260)
+
