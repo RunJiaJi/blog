@@ -24,6 +24,7 @@
 - [菜鸟教程](https://www.runoob.com/)
 
 - [cheat_sheet](https://simplecheatsheet.com/)
+- [Ping网络测通教程](https://www.cnblogs.com/machangwei-8/p/10352808.html)
 
 ### 学术期刊
 - [Bioinformatics](https://academic.oup.com/bioinformatics/)
